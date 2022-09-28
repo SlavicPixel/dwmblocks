@@ -3,19 +3,19 @@ static const Block blocks[] = {
 	/*Icon*/ /*Command*/	 	                            /*Update Interval*/	/*Update Signal*/
 
 	
-	{"  ", "/opt/dwmblocks-distrotube/scripts/cpu_freq",  1,		          0},
+	{"  ", "/opt/dwmblocks/scripts/cpu_freq",  1,		          0},
 	
-	{"  ", "/opt/dwmblocks-distrotube/scripts/cpu_temp",  1,		         0},
+	{"  ", "/opt/dwmblocks/scripts/cpu_temp",  1,		         0},
 	
-	{"  ", "/opt/dwmblocks-distrotube/scripts/gpu",  1,		         0},
+	{"  ", "/opt/dwmblocks/scripts/gpu",  1,		         0},
 	
-	{"  ", "/opt/dwmblocks-distrotube/scripts/memory",	 2,		              1},
+	{"  ", "/opt/dwmblocks/scripts/memory",	 2,		              1},
 	
-	{"  ", "/opt/dwmblocks-distrotube/scripts/net",	 2,		              1},
+	{"  ", "/opt/dwmblocks/scripts/net",	 2,		              1},
 
-	{"  ", "/opt/dwmblocks-distrotube/scripts/volume",     0,		              10},
+	{"  ", "/opt/dwmblocks/scripts/volume",     0,		              10},
 
-	{"  ", "/opt/dwmblocks-distrotube/scripts/clock",	     1,	              0},
+	{"  ", "/opt/dwmblocks/scripts/clock",	     1,	              0},
 	
 };
 
