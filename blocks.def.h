@@ -11,7 +11,7 @@ static const Block blocks[] = {
 	
 	{"  ", "/opt/dwmblocks/scripts/memory",	 2,		              1},
 	
-	{"  ", "/opt/dwmblocks/scripts/net",	 2,		              1},
+	{"  ", "/opt/dwmblocks/scripts/net",	 1,		              1},
 
 	{"  ", "/opt/dwmblocks/scripts/volume",     0,		              10},
 
